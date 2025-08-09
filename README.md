@@ -40,8 +40,14 @@
 ### 🥤 Drink Store Web App
 **Description:** Multi-role drink store management system (Admin, Manager, Staff).  
 **Features:** Store/product/staff management, sales invoices, revenue statistics, inventory tracking.  
-**Tech:** ReactJS, Redux Toolkit, TypeScript, Tailwind CSS, Node.js, Express.js, MongoDB, JWT  
-🔗 [Frontend Repo](https://github.com/DATT-2003/GioRiRao_front_ts) | [Backend Repo](https://github.com/DATT-2003/GioRiRao-backend)
+
+🔗 **Repositories**  
+- [Frontend - Client_Drink_Store](https://github.com/DATT-2003/Client_Drink_Store)  
+- [Backend - Sever_Drink_Store](https://github.com/DATT-2003/Sever_Drink_Store)  
+
+**Tech Stack:**  
+Frontend → ReactJS, Redux Toolkit, TypeScript, Tailwind CSS  
+Backend → Node.js, Express.js, MongoDB, JWT
 
 ---
 
