@@ -1,42 +1,65 @@
-# 👋 Hi, I'm Pham Tran Tien Dat
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Hi%20👋%20I'm%20Pham%20Tran%20Tien%20Dat&fontSize=32&fontColor=fff&animation=fadeIn&fontAlignY=35" />
+</p>
 
-🎯 **Aspiring Web Developer** | Passionate about learning and building impactful applications
+<!-- Badges -->
+<p align="center">
+  <a href="https://github.com/DATT-2003">
+    <img src="https://img.shields.io/github/followers/DATT-2003?label=Follow&style=social" alt="GitHub Followers" />
+  </a>
+  <a href="mailto:dattien52003@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-blue?style=flat-square&logo=gmail" />
+  </a>
+</p>
 
 ---
 
 ## 🚀 About Me
 - 🎓 **Software Engineer** at *Van Lang University*
-- 💡 Always exploring **JavaScript**, **Node.js**, and modern frontend frameworks
-- 🌱 Currently improving my skills in **NestJS**, **Next.js**, and full-stack development
-- 🔍 Interested in **Web Development** and **Cloud-based Applications**
+- 💡 Passionate about **Web Development** (Frontend + Backend)
+- 🌱 Learning **NestJS**, **Next.js**, and advanced **JavaScript/TypeScript**
+- 🎯 Goal: Become a professional **Fullstack Developer**
 
 ---
 
 ## 🛠 Tech Stack
-**Languages:** JavaScript, TypeScript  
-**Frontend:** ReactJS, VueJS, Redux Toolkit, Tailwind CSS  
-**Backend:** Node.js, Express.js, NestJS  
-**Databases:** SQL Server, MongoDB (Atlas)  
-**Tools:** Postman, Git, GitHub, VS Code  
-**Others:** JWT Authentication, RESTful API
+| **Category**  | **Technologies** |
+|---------------|------------------|
+| **Languages** | JavaScript, TypeScript |
+| **Frontend**  | ReactJS, VueJS, Redux Toolkit, Tailwind CSS |
+| **Backend**   | Node.js, Express.js, NestJS |
+| **Database**  | SQL Server, MongoDB (Atlas) |
+| **Tools**     | Git, GitHub, Postman, VS Code |
+| **Others**    | JWT Authentication, RESTful API |
 
 ---
 
 ## 📌 Featured Projects
+
 ### 🥤 Drink Store Web App
-**Description:** Web application for managing drink store chains with multiple user roles (Admin, Manager, Staff).  
-**Features:** Store management, product management, staff management, sales invoices, revenue statistics, inventory management.  
+**Description:** Multi-role drink store management system (Admin, Manager, Staff).  
+**Features:** Store/product/staff management, sales invoices, revenue statistics, inventory tracking.  
 **Tech:** ReactJS, Redux Toolkit, TypeScript, Tailwind CSS, Node.js, Express.js, MongoDB, JWT  
-**Links:**  
-🔗 [Frontend Repository](https://github.com/DATT-2003/GioRiRao_front_ts)  
-🔗 [Backend Repository](https://github.com/DATT-2003/GioRiRao-backend)
+🔗 [Frontend Repo](https://github.com/DATT-2003/GioRiRao_front_ts) | [Backend Repo](https://github.com/DATT-2003/GioRiRao-backend)
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DATT-2003&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DATT-2003&theme=tokyonight" height="150"/>
+</p>
 
 ---
 
 ## 📫 Contact Me
-📧 Email: dattien52003@gmail.com  
-📱 Phone: 0969795107  
+📧 Email: **dattien52003@gmail.com**  
+📱 Phone: **0969795107**  
 📍 Ho Chi Minh City, Vietnam
 
 ---
-✨ *"Strive for progress, not perfection."*
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=120&section=footer"/>
+</p>
