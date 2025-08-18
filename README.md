@@ -51,14 +51,6 @@ Backend → Node.js, Express.js, MongoDB, JWT
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DATT-2003&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DATT-2003&theme=tokyonight" height="150"/>
-</p>
-
----
-
 ## 📫 Contact Me
 📧 Email: **dattien52003@gmail.com**  
 📱 Phone: **0969795107**  
